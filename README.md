@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0050-powx-n) |
 ## String Matching
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
