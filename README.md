@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 ## Counting
