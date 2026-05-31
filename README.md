@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 ## String Matching
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
