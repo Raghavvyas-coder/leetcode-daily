@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -113,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
