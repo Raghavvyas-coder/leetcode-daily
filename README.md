@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
 ## Bit Manipulation
 |  |
 | ------- |
