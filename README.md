@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0202-happy-number) |
+| [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,13 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
