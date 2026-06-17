@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2235-add-two-integers) |
 ## String Matching
 |  |
