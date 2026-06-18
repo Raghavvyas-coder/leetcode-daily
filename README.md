@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0383-ransom-note) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
