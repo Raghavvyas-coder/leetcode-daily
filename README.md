@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String Matching
 |  |
 | ------- |
