@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0383-ransom-note) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 <!---LeetCode Topics End-->
