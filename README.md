@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
