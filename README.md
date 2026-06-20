@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0845-longest-mountain-in-array) |
+| [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1672-richest-customer-wealth) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
+| [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0845-longest-mountain-in-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
