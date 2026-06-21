@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0845-longest-mountain-in-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
