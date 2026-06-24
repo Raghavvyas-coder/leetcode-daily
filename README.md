@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0845-longest-mountain-in-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0845-longest-mountain-in-array) |
 ## String
 |  |
