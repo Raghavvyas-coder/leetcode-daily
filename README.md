@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0383-ransom-note) |
 ## Trie
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
@@ -188,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 | [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
