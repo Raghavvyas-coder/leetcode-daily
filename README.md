@@ -208,10 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
+| [0886-possible-bipartition](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0886-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
+| [0886-possible-bipartition](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0886-possible-bipartition) |
 ## Linked List
 |  |
 | ------- |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0886-possible-bipartition) |
+## Graph Theory
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
