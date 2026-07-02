@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0845-longest-mountain-in-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
