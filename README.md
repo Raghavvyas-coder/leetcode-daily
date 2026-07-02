@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0541-reverse-string-ii) |
