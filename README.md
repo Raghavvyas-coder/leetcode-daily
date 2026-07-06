@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0541-reverse-string-ii) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
