@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
