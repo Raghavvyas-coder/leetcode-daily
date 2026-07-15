@@ -1,4 +1,5 @@
 class MyStack {
+
     Queue<Integer> q;
 
     public MyStack() {
@@ -9,6 +10,8 @@ class MyStack {
         q.offer(x);
 
         int size = q.size();
+
+        // Move previous elements behind x
         for (int i = 0; i < size - 1; i++) {
             q.offer(q.poll());
         }
