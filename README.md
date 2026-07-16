@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0268-missing-number) |
@@ -339,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
