@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
