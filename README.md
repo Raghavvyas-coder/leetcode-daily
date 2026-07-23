@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Trie
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Matrix
 |  |
