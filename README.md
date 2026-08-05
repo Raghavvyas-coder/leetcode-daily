@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
 | [0886-possible-bipartition](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0886-possible-bipartition) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
 | [0886-possible-bipartition](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0886-possible-bipartition) |
 ## Linked List
@@ -286,11 +288,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 ## Greedy
 |  |
