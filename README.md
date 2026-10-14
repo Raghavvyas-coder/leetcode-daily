@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0064-minimum-path-sum) |
+| [0498-diagonal-traverse](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0733-flood-fill) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0832-flipping-an-image) |
 | [1094-car-pooling](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/1094-car-pooling) |
