@@ -365,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0078-subsets) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raghavvyas-coder/leetcode-daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
